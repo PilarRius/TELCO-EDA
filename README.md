@@ -1,2 +1,2 @@
 # TELCO-EDA
-EDA and Modelling of a TELCO client churn data
+EDA and Recomendations for a TELCO client churn data
